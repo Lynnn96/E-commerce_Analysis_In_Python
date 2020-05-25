@@ -2,7 +2,7 @@
 
 This analysis consists of three parts, AOV analysis, Payment method analysis and Retention analysis.
 
-**Average order value(AOV)** is a central ecommerce metric, it tracks the average dollar amount spent each time a customer places an order on a website or mobile app.
+**Average Order Value(AOV)** is a central ecommerce metric, it tracks the average dollar amount spent each time a customer places an order on a website or mobile app.
 Knowing your company’s average order value helps you evaluate your overall online marketing efforts and pricing strategy by giving you the metrics needed to measure the long-term value of individual customers.
 In the AOV analysis, I analyzed AOVs for different customer segments to understand the purchase behaviors of different customer segments and provided insights about how to increase AOV for e-commerce business.
 
