@@ -1,4 +1,4 @@
-## E-commerce_Analysis_In_Python
+## E-commerce_Analysis_in_Python
 
 This analysis consists of three parts, AOV analysis, Payment method analysis and Retention analysis.
 
